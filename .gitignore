@@ -3,3 +3,4 @@
 prompt.md
 
 local-context/*
+!local-context/copilot-guidelines.example.md
