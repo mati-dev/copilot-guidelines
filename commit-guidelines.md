@@ -3,7 +3,7 @@
 ## Format
 - **Title**: A descriptive, concise title that summarizes the change
 - **Type**: Use "copilot" for changes assisted by GitHub Copilot
-- **Description**: Use bullet points to list the changes made, avoid using \n for line breaks
+- **Description**: Use bullet points to list the changes made, with each bullet point on a new line (do not use \n for line breaks)
 
 ## Best Practices
 - Keep commits focused on a single logical change
